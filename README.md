@@ -2,6 +2,8 @@
 
 This project contains my new project.
 
+And I want to test Atomist with it
+
 ## Development
 
 This project is driven using [Maven][mvn].
